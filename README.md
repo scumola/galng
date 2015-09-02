@@ -1,4 +1,4 @@
-galng.tcl is report viewer/tool for galaxy pbem game, primary for NG variant. Original galng.tcl is written by Steve Webb and if you need original version, please look at http://www.badcheese.com/~steve/
+galng.tcl is report viewer/tool for galaxy pbem game, primary for NG variant. Original galng.tcl is written by Steve Webb.
 
 Now it is usable for playing GalaxyNG. galng.tcl can run, load report, show info from it, have ship designer, have battlesim (which can work with internal simulator from galaxyMapper or with external WOPR tool; you can get it there). Also it have animated battleviewer (new in 1.5.10) and can send commands to server via internal smtp sender. I plan to support Galaxy PLUS reports, but for now it is in unusable state.
 
